@@ -1,0 +1,4 @@
+* text-auto
+*.jpg bineary
+* .svg bineary
+* .png bineary 
